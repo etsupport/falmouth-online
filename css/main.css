@@ -1,0 +1,21 @@
+.ic-Login__sso {}
+
+.ic-Login__sso-list {}
+
+.ic-Login__sso-list__item {}
+
+.Button.ic-Login__sso-button {
+    background: #f6ce4c;
+}
+
+.Button.ic-Login__sso-button:hover,
+.Button.ic-Login__sso-button:focus {
+    background: #f3ba00;
+    border: 1px solid #f3ba00;
+}
+
+.Button.ic-Login__sso-button .ic-icon-svg {
+    fill: #333;
+}
+
+.ic-Login__sso-button__title {}
